@@ -1,4 +1,6 @@
 # Duel-Screen-Calculator
+
+**Version 1.1.0**
 Duel-Screen Calculator project
 
 
