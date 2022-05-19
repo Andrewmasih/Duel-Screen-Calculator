@@ -24,7 +24,7 @@ listing the components for consideration;
 2. Buttons - button size, button layout, flow for usability, button spacing: spaced the buttons in groups, leaving some larger spaces for visual and usability purpose and button functionality, user interaction with button, colour choice when buttons are pressed down to show the button has been pressed or the calculator has registered the user's choice of button.
 3. Dimensions - overall size of calculator, useable size; on desktop and other smaller devices, consideration: digits are readable and clear, choice of fonts would be non stylistic with no footers.
 
-This project initially began as a challenge set by the freecode.com project, where the challenge is to complete small tasks from developing each component separately. It did have its difficulties and was challenging to make it all function.
+This project initially began as a challenge set by the freecode.com project, where the challenge is to develop a calculator from the begining in HTML, completing small component separately, as we go through the tutoral. It did have its difficulties and was challenging to make it all function.
 
 
 
