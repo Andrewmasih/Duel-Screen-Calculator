@@ -11,12 +11,13 @@ A dual screen calculator design and developed in HTML, CSS, JavaScript code, and
 ## Project Description
 built using VS Code, there are also examples of UI/UX design, customer journey, and wireframing using Figma.
 
-The key function of the calculator is having the dual screen logic work with JavaScript. Purpose of having he 2 screens is that the user when dealing with larger figures can see the last input, allowing to keep track off which index the users has typed in:
+The key function of the calculator is having a dual screen, the logic is built with JavaScript. 
+Purpose of having the two screens is when the user is dealing with larger figures, the user can see the last input and prevoius input values, allowing to keep track off which item,index or line the users has typed into the calculator:
 
-how would use this calculator: Accountants, Accounts dept, Book Keepers, Sales Ledger, Sales People, Counting Stocks,  
+Who would use the calculator: Accountants, Accounts dept, Book Keepers, Sales Ledger, Sales People, Counting Stocks,  
 
-Also taking in account the functionality from a user's perspective: UX, design phase looked into how the user would use or interact with the application.
-Component design has to consider User experience and how it complements the interface for optimum functionality and work flow:
+During the devlopement stages I had to take inaccount the functionality from a user's perspective: UX, the design phase looked into how the user would use, or interact with the application.
+each component design has to consider User experience and how it complements the interface for optimum functionality and work flow:
 
 listing the components for consideration;
 
